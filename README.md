@@ -4,7 +4,7 @@
 <br>
 <br>
 <h4>Project details</h4>
-The user is given a set of scrambled words that they must unscramble to complete the game. The game’s beginning starts with a story, later the user is asked to input their name and whether they would like to play. There will be 10 questions; however, if the user needs a hint, they may call the command and can get up to three hints per question (with the exception of a few question, there'll be some that don't have any available hints). Each question will have a designated number of points. The user will have to calculate the total points at the end of the game and input the amount to receive a “reward.”
+The user is given a set of scrambled words that they must unscramble to complete the game. The game starts with a POV story, later the user is asked to input their name and whether they would like to play. There will be 10 questions; however, if the user needs a hint, they may call the command and can get up to three hints per question (with the exception of a few questions that don't have any available hints). Each question will have a designated number of points. The user will have to calculate the total points at the end of the game and input the amount to receive a “reward.”
 <br>
 <br>
 <h4>Input/Output Results</h4>
